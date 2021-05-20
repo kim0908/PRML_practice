@@ -2,8 +2,11 @@
 Some practice for the book : Bishop - Pattern Recognition and Machine Learning
 # 1.Regression
   (1) 1-dim Polynomial regression
+  
       a. plot the RMS error versus M ( Amount of feature )  
+      
       b. plot the RMS error versus regularization coefficient(log-scale)
+      
   (2) D-dim Polynomial regression
   (3) Bayesian linear regression (Gaussian basis functions)
       Compare the performance with different data size N
