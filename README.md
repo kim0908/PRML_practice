@@ -8,10 +8,13 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       b. plot the RMS error versus regularization coefficient(log-scale)
       
   (2) D-dim Polynomial regression
+  
   (3) Bayesian linear regression (Gaussian basis functions)
       Compare the performance with different data size N
+      
   (4) Bayesian linear regression (Sigmoid basis functions)
       Compare the performance with different data size N
+      
 # 2. Classification
   (1) Perceptron
       Implement a perceptron learning algorithm
