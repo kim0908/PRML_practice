@@ -8,12 +8,16 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       b. plot the RMS error versus regularization coefficient(log-scale)
       
   <img src="Regression/pic/1-1.png" width="350"><img src="Regression/pic/1-2.png" width="350"><br/>
+  
   (2) D-dim Polynomial regression
   
   (3) Bayesian linear regression (Gaussian basis functions)
       
       Compare the performance with different data size N
       
+  <img src="Regression/pic/3a.png" width="350">
+  <img src="Regression/pic/3b.png" width="350"><br/>
+  
   (4) Bayesian linear regression (Sigmoid basis functions)
       
       Compare the performance with different data size N
