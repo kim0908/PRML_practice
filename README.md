@@ -3,8 +3,10 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
 # 1.Regression
   (1) 1-dim Polynomial regression
   
-      a. plot the RMS error versus M ( Amount of feature )  
-      <img src="./Regression/pic/1-1.png" width="350"><img src="Regression/pic/1-2.png" width="350"><br/>
+      a. plot the RMS error versus M ( Amount of feature ) 
+      
+      <img src="https://github.com/kim0908/PRML_practice/blob/main/Regression/pic/1-1.png" width="350"><img src="Regression/pic/1-2.png" width="350"><br/>
+      
       b. plot the RMS error versus regularization coefficient(log-scale)
       
   (2) D-dim Polynomial regression
