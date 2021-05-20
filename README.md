@@ -22,13 +22,16 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       
       Compare the performance with different data size N
       
-<img src="Regression/pic/3c_1.png" width="350"><img src="Regression/pic/3c_2.png" width="350"><br/>
+<img src="Regression/pic/3c_1.png" width="900">
+<img src="Regression/pic/3c_2.png" width="900"><br/>
 
 # 2. Classification
   (1) Perceptron
       
       Implement a perceptron learning algorithm
       
+  <img src="/Classification/pic/1_k.png" width="900"><br/>
+  
   (2) Logistic regression
       
       Implement the Newton-Raphson algorithm
@@ -47,6 +50,8 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       
       b. plot the learning curve of Accuracy
       
+ <img src="/Classification/pic/3_1_iono_a.png" width="350"><img src="/Classification/pic/3_1_iono_b.png" width="350"><br/>     
+ 
       Activation funtion :
       
       1.NN_datasetname : hidden layer -> sigmoid
