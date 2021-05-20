@@ -15,13 +15,14 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       
       Compare the performance with different data size N
       
-  <img src="Regression/pic/3a.png" width="350">
-  <img src="Regression/pic/3b.png" width="350"><br/>
+  <img src="Regression/pic/3a.png" width="350"><img src="Regression/pic/3b.png" width="350"><br/>
   
   (4) Bayesian linear regression (Sigmoid basis functions)
       
       Compare the performance with different data size N
       
+<img src="Regression/pic/3c_1.png" width="350"><img src="Regression/pic/3c_2.png" width="350"><br/>
+
 # 2. Classification
   (1) Perceptron
       
