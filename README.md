@@ -15,8 +15,8 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
       
       Compare the performance with different data size N
       
-  <img src="Regression/pic/3a.png" width="700">
-  <img src="Regression/pic/3b.png" width="700"><br/>
+  <img src="Regression/pic/3a.png" width="900">
+  <img src="Regression/pic/3b.png" width="900"><br/>
   
   (4) Bayesian linear regression (Sigmoid basis functions)
       
