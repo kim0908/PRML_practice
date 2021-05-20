@@ -18,10 +18,14 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
 # 2. Classification
   (1) Perceptron
       Implement a perceptron learning algorithm
+      
   (2) Logistic regression
       Implement the Newton-Raphson algorithm
+      
       a. plot the learning curve of Crossentropy error function
+      
       b. plot the learning curve of Accuracy
+      
   (3) Neural network
       Implement forward-propagation, back-propagation and stochastic gradient descent algorithm.
       Using Ionosphere dataset , Iris dataset and Wine dataset
