@@ -29,10 +29,15 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
   (3) Neural network
       Implement forward-propagation, back-propagation and stochastic gradient descent algorithm.
       Using Ionosphere dataset , Iris dataset and Wine dataset
+      
       a. plot the learning curve of Crossentropy error function
+      
       b. plot the learning curve of Accuracy
+      
       Activation funtion :
+      
       1.NN_datasetname : hidden layer -> sigmoid
                          output layder -> softmax
+                         
       2.2NN_datasetname: hidden layer -> Can choose for yourself
                          output layder -> softmax
