@@ -62,3 +62,12 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
                          
 # 3.SVM(Support vector machine)
 
+Implement a support vector machine (SVM).
+Using Gaussian kernel and CVXOPT to slove the quadratic programming problem.
+
+<img src="/SVM/擷取.png" width="350"><br>
+<img src="/SVM/擷取1.png" width="350"><br/>
+
+
+# 4.Gaussian mixture model with K-means and EM algorithm
+Using Gaussian mixture model (GMM) and the expectation-maximization (EM) algorithm with initialization using K-means.
