@@ -59,3 +59,6 @@ Some practice for the book : Bishop - Pattern Recognition and Machine Learning
                          
       2.2NN_datasetname: hidden layer -> Can choose for yourself
                          output layder -> softmax
+                         
+# 3.SVM(Support vector machine)
+
