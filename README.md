@@ -70,8 +70,8 @@ Using Gaussian kernel and CVXOPT to slove the quadratic programming problem.
 
 
 # 4.Gaussian mixture model with K-means and EM algorithm
-Using Gaussian mixture model (GMM) and the expectation-maximization (EM) algorithm with initialization using K-means.
-K=2                             K=3                                  K=5                            K=10                                 K=20
+Using Gaussian mixture model (GMM) and the expectation-maximization (EM) algorithm with initialization using K-means.<br>
+K=2          K=3
 <img src="/GMM with Kmeans and EM/segment_result/img1_K=2.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img1_K=3.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img1_K=5.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img1_K=10.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img1_K=20.jpg" width="200"><br>
 
 <img src="/GMM with Kmeans and EM/segment_result/img2_K=2.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img2_K=3.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img2_K=5.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img2_K=10.jpg" width="200"><img src="/GMM with Kmeans and EM/segment_result/img2_K=20.jpg" width="200"><br>
